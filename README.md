@@ -1,2 +1,4 @@
 # Chat-Room0
-This is a text based implementation of a Chat Room that uses multi-threading and networking.
+Hello-World!
+"Text based implementation of a Chat Room that uses multi-threading and networking".
+It's implemented in Java.
